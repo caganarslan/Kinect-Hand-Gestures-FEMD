@@ -1,0 +1,12 @@
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF_MarkupCompile.cache
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.g.resources
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.CoordinateMappingBasics.Properties.Resources.resources
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\bin\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\bin\Debug\CoordinateMappingBasics-WPF.pdb
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.exe
+C:\Users\Cagan\Desktop\WorkStation\projects\visualStudio\kinect\CoordinateMappingBasics-WPF\obj\Debug\CoordinateMappingBasics-WPF.pdb

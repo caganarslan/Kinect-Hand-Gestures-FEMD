@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArrayOfDouble xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfDouble>
+    <double>0.30865806341171265</double>
+    <double>0.35754862427711487</double>
+    <double>0.028847652867647455</double>
+  </ArrayOfDouble>
+  <ArrayOfDouble>
+    <double>0.3930085301399231</double>
+    <double>0.44229930639266968</double>
+    <double>0.029300745967444697</double>
+  </ArrayOfDouble>
+  <ArrayOfDouble>
+    <double>0.53654873371124268</double>
+    <double>0.56815040111541748</double>
+    <double>0.007577866666733879</double>
+  </ArrayOfDouble>
+</ArrayOfArrayOfDouble>

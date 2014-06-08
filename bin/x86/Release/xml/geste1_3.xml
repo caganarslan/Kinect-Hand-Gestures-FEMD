@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArrayOfDouble xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfDouble>
+    <double>0.447579562664032</double>
+    <double>0.48722830414772034</double>
+    <double>0.033180757051766374</double>
+  </ArrayOfDouble>
+</ArrayOfArrayOfDouble>
